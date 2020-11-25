@@ -11,7 +11,7 @@
 - Kubernetes/kubectl 
 - helm3
 
-Note: This setup is using [kubespray](https://github.com/kubernetes-sigs/kubespray) and this demo microservice. For setup instructions [click here](https://github.com/ari-hacks/kubernetes-chaos-sandbox/blob/main/gremlin/README.md#create-kubespray-cluster)
+Note: This setup is using [kubespray](https://github.com/kubernetes-sigs/kubespray) and the sock shop demo microservice. For setup instructions [click here](https://github.com/ari-hacks/kubernetes-chaos-sandbox/blob/main/gremlin/README.md#create-kubespray-cluster)
 
 ### Install Prometheus
 
