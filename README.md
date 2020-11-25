@@ -57,4 +57,3 @@ Note: This setup is using [kubespray](https://github.com/kubernetes-sigs/kubespr
     #ex/
     Kubernetes/Compute Resources/Namespace(Pods)
     ```
-Or check out other metrics 🙂
